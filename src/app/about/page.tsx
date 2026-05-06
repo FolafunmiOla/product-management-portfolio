@@ -21,8 +21,19 @@ export default function AboutPage() {
           <a href="/resume.pdf" className="inline-flex items-center justify-center rounded-full bg-accent px-6 py-3 text-sm font-semibold text-white transition hover:bg-slate-900">
             Download resume
           </a>
-          <div className="text-sm text-slate-600 dark:text-slate-300">
-            Resume link is visible immediately and easy to access from every page.
+          
+        </div>
+
+        {/* Profile Image Section */}
+        <div className="flex justify-center py-8">
+          <div className="relative">
+            <div className="overflow-hidden rounded-3xl border border-slate-200/70 bg-white/90 shadow-soft dark:border-slate-800/70 dark:bg-slate-900/85">
+              <img
+                src="/images/profile.jpeg"
+                alt="Bisola Oyewale - Product Manager"
+                className="h-80 w-80 object-cover"
+              />
+            </div>
           </div>
         </div>
       </section>
