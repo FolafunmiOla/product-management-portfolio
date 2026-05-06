@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Product",
+    "items": [
+      "Roadmapping",
+      "User research",
+      "Problem framing",
+      "Prioritization",
+      "Stakeholder alignment",
+      "Figma collaboration"
+    ]
+  },
+  {
+    "title": "Technical",
+    "items": [
+      "APIs and data modeling",
+      "SQL and analytics instrumentation",
+      "React / Next.js familiarity",
+      "Jira workflow design",
+      "Technical stakeholder communication"
+    ]
+  }
+]

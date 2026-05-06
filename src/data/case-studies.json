@@ -1,0 +1,45 @@
+[
+  {
+    "id": "rentright-marketplace",
+    "slug": "rentright-marketplace",
+    "title": "RentRight — Trust-first rental marketplace",
+    "summary": "Built a 0→1 rental marketplace that eliminates scams and hidden fees through verification and transparency.",
+    "subheading": "From risky rentals to trusted apartment discovery",
+    "problem": "Finding apartments in Nigeria is stressful and risky — renters face scams, hidden fees (30-50% extra costs), and inefficient offline processes. Most discovery happens via agents, WhatsApp, and word-of-mouth, leading to wasted visits and lack of trust.",
+    "approach": "Led end-to-end product development: conducted market research, defined target users (young urban renters), used RICE/MoSCoW for prioritization, wrote PRD, and designed wireframes. Focused MVP on trust signals, full cost transparency, and in-app inspection booking.",
+    "outcome": "Created a prototype marketplace where renters can discover verified apartments, see total move-in costs upfront, and book inspections directly. Demonstrated structured product thinking from research to prototype, emphasizing trust over volume.",
+    "metrics": [
+      "30-50% hidden cost reduction",
+      "Trust-focused MVP design",
+      "Verified listing system"
+    ],
+    "images": [
+      {
+        "src": "/images/rentright-screenshot.jpg",
+        "alt": "RentRight marketplace prototype - showing verified listings with cost transparency"
+      }
+    ],
+    "liveUrl": "https://pixel-perfect-clone-8150.lovable.app/home"
+  },
+  {
+    "id": "onboarding-flow",
+    "slug": "onboarding-flow",
+    "title": "Fast-track onboarding for B2B growth",
+    "summary": "Launched a product onboarding experience that reduced time-to-value and improved activation for new customers.",
+    "subheading": "From unclear activation to a clear path to value",
+    "problem": "New users were dropping out in the first 14 days because onboarding left too much to discover and the product did not surface value quickly.",
+    "approach": "I led cross-functional discovery, mapped the first user journey, and shipped a guided onboarding flow with milestone tracking, contextual education, and analytics instrumentation.",
+    "outcome": "The new onboarding experience delivered a 15-point lift in activation, a 28% improvement in trial-to-paid conversion, and a 1.7x faster time to first key action.",
+    "metrics": [
+      "15% activation lift",
+      "28% trial-to-paid conversion",
+      "1.7x faster time to first action"
+    ],
+    "images": [
+      {
+        "src": "/images/onboarding-hero.svg",
+        "alt": "Onboarding flow wireframes"
+      }
+    ]
+  }
+]

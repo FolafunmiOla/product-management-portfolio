@@ -1,0 +1,14 @@
+node_modules
+.next
+out
+.env*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+.vscode
+.idea
+PM/
+temp_pdf_extract.js
+public/images/RentRightCaseStudy.pdf
+public/images/Oyewale Bisola Elizabeth - CV-new.pdf
