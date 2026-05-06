@@ -6,7 +6,7 @@ export default function CaseStudiesPage() {
   const caseStudies = getAllCaseStudies();
 
   return (
-    <main className="mx-auto max-w-6xl px-6 py-10 sm:px-8">
+    <main className="mx-auto max-w-6xl px-4 py-10 sm:px-8">
       <section className="space-y-6 pb-10">
         <div className="space-y-4">
           <p className="text-sm uppercase tracking-[0.3em] text-slate-500 dark:text-slate-400">Case studies</p>

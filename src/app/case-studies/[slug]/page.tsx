@@ -22,7 +22,7 @@ export default function CaseStudyPage({ params }: CaseStudyPageProps) {
   }
 
   return (
-    <main className="mx-auto max-w-5xl px-6 py-10 sm:px-8">
+    <main className="mx-auto max-w-5xl px-4 py-10 sm:px-8">
       <div className="space-y-6 pb-10">
         <Link href="/case-studies" className="text-sm font-semibold text-accent transition hover:text-slate-900 dark:hover:text-white">
           ← Back to case studies

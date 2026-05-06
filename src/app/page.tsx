@@ -7,16 +7,16 @@ export default function HomePage() {
   const featuredStudies = getFeaturedCaseStudies();
 
   return (
-    <main className="mx-auto max-w-6xl px-6 py-10 sm:px-8">
+    <main className="mx-auto max-w-6xl px-4 py-10 sm:px-8">
       <section className="space-y-8 pb-10">
         <MetricsStrip />
         <div className="space-y-4">
           <p className="text-sm uppercase tracking-[0.3em] text-slate-500 dark:text-slate-400">Product strategy, design, and execution</p>
           <h1 className="max-w-3xl text-4xl font-semibold leading-tight text-slate-900 dark:text-white sm:text-5xl">
-            Build portfolio-grade product work with a warm, human-first point of view.
+            I help companies turn technical foundations into product experiences that users adopt, teams can ship, and stakeholders understand.
           </h1>
           <p className="max-w-2xl text-lg leading-8 text-slate-600 dark:text-slate-300">
-            I help companies turn technical foundations into product experiences that users adopt, teams can ship, and stakeholders understand.
+            I bring a technical instinct and people-first clarity to product management, ensuring that every decision is grounded in evidence and aligned with user needs.
           </p>
         </div>
         <div className="flex flex-col gap-4 sm:flex-row sm:items-center">
