@@ -22,24 +22,34 @@
     "liveUrl": "https://pixel-perfect-clone-8150.lovable.app/home"
   },
   {
-    "id": "onboarding-flow",
-    "slug": "onboarding-flow",
-    "title": "Fast-track onboarding for B2B growth",
-    "summary": "Launched a product onboarding experience that reduced time-to-value and improved activation for new customers.",
-    "subheading": "From unclear activation to a clear path to value",
-    "problem": "New users were dropping out in the first 14 days because onboarding left too much to discover and the product did not surface value quickly.",
-    "approach": "I led cross-functional discovery, mapped the first user journey, and shipped a guided onboarding flow with milestone tracking, contextual education, and analytics instrumentation.",
-    "outcome": "The new onboarding experience delivered a 15-point lift in activation, a 28% improvement in trial-to-paid conversion, and a 1.7x faster time to first key action.",
+    "id": "safesignal",
+    "slug": "safesignal",
+    "title": "SafeSignal — From PRD to Prototype",
+    "summary": "Designed a safety incident reporting app that enables users to submit reports in under 60 seconds while feeling safe and confident, from initial PRD analysis through MVP prototype.",
+    "subheading": "From barriers to reporting to a trustworthy incident reporting platform",
+    "problem": "Many safety incidents go unreported due to slow systems, fear of exposure, lack of evidence capture, and insufficient reassurance. Users need a way to report quickly and discreetly while maintaining confidence in the process.",
+    "approach": "Analyzed the provided PRD to identify core pain points across three user groups (students, business owners, residents). Used MoSCoW prioritization to define a focused MVP around a single outcome: enable incident submission in under 60 seconds. Translated requirements into a multi-step wizard flow, designed anonymous reporting as a core feature, and prototyped an end-to-end experience with both user and admin interfaces.",
+    "outcome": "Created a clickable MVP prototype that validates the complete reporting loop — from user onboarding through incident submission, confirmation, and admin review. Demonstrated structured product thinking by defining success criteria, identifying key product decisions, and proposing a validation plan for testing with real users.",
     "metrics": [
-      "15% activation lift",
-      "28% trial-to-paid conversion",
-      "1.7x faster time to first action"
+      "MVP designed for <60 second reporting",
+      "3 user personas validated",
+      "5 key product decisions documented",
+      "End-to-end prototype (user + admin dashboard)"
     ],
     "images": [
       {
-        "src": "/images/onboarding-hero.svg",
-        "alt": "Onboarding flow wireframes"
+        "src": "/images/safesignal/screenshot-1.jpg",
+        "alt": "SafeSignal incident reporting flow - step-by-step wizard"
+      },
+      {
+        "src": "/images/safesignal/screenshot-2.jpg",
+        "alt": "SafeSignal confirmation screen with reference ID"
+      },
+      {
+        "src": "/images/safesignal/screenshot-3.jpg",
+        "alt": "SafeSignal admin dashboard for report review"
       }
-    ]
+    ],
+    "liveUrl": "https://secure-witness-app.lovable.app/"
   }
 ]
