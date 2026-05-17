@@ -19,7 +19,7 @@ export default function AboutPage() {
         </div>
         <div className="flex flex-col gap-4 sm:flex-row sm:items-center">
           <a
-            href="/images/Oyewale%20Bisola%20Elizabeth%20-%20CV-new.pdf"
+            href="/images/OyewaleBisolaElizabeth.pdf"
             className="inline-flex items-center justify-center rounded-full bg-accent px-6 py-3 text-sm font-semibold text-white transition hover:bg-slate-900"
             download
           >
