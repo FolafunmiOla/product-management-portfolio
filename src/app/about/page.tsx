@@ -11,17 +11,20 @@ export default function AboutPage() {
         <div className="space-y-4">
           <p className="text-sm uppercase tracking-[0.3em] text-slate-500 dark:text-slate-400">About</p>
           <h1 className="max-w-3xl text-4xl font-semibold leading-tight text-slate-900 dark:text-white sm:text-5xl">
-            Product management with a technical instinct and people-first clarity.
+            Product Management with a technical instinct and a people first mindset.
           </h1>
           <p className="max-w-2xl text-lg leading-8 text-slate-600 dark:text-slate-300">
-            I believe strong product work starts with a simple question: what problem are we solving, and how will we know we solved it? I use research, design, and engineering fluency to make decisions that are grounded and easy to move.
+            I believe great products start with a simple question: What problem are we solving, and how will we know we've solved it? I combine research, design thinking and engineering collaboration to make decisions that are clear, practical and easy for team to execute.
           </p>
         </div>
         <div className="flex flex-col gap-4 sm:flex-row sm:items-center">
-          <a href="/resume.pdf" className="inline-flex items-center justify-center rounded-full bg-accent px-6 py-3 text-sm font-semibold text-white transition hover:bg-slate-900">
+          <a
+            href="/images/Oyewale%20Bisola%20Elizabeth%20-%20CV-new.pdf"
+            className="inline-flex items-center justify-center rounded-full bg-accent px-6 py-3 text-sm font-semibold text-white transition hover:bg-slate-900"
+            download
+          >
             Download resume
           </a>
-          
         </div>
 
         {/* Profile Image Section */}
